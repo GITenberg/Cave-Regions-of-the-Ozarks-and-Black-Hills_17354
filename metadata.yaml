@@ -1,0 +1,29 @@
+_repo: Cave-Regions-of-the-Ozarks-and-Black-Hills_17354
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Owen, Luella Agnes
+    birthdate: 1852
+    deathdate: 1932
+    gutenberg_agent_id: '7320'
+    url: http://www.gutenberg.org/2009/agents/7320
+    wikipedia: http://members.socket.net/~joschaper/luella.html
+description: ''
+gutenberg_bookshelf: Geology
+gutenberg_issued: '2005-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17354'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GB'
+- !lcsh 'Caves -- Black Hills (S.D. and Wyo.)'
+- !lcsh 'Caves -- Ozark Mountains'
+title: Cave Regions of the Ozarks and Black Hills
+url: http://www.gutenberg.org/ebooks/17354
